@@ -1,0 +1,39 @@
+body {
+
+    background-image: url('image1.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    font-family: Arial, sans-serif;
+    font-size: larger;
+}
+.link p {
+    text-align: center;
+}
+ #logoutBtn{
+    font-weight: 500;
+    color: black;
+    background-color: #22daeb;
+   
+ }
+    #name {
+        font-weight: bolder;
+        color: #f0f0f0;
+    }
+    
+    #top {
+        font-weight: bolder;
+        color: #f0f0f0;
+        font-size: 60px;
+    }
+    #email {
+        color: #f0f0f0;
+    }
+
+    .theme-loader {
+        width: 100px;
+        height: 100px;
+    }
+
+    .main-content {
+        display: none;
+    }
